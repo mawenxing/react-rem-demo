@@ -2,6 +2,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import './index.css'
+import 'lib-flexible'
 
 //2. 类组件
 class Child extends React.Component {
